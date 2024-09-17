@@ -1,0 +1,82 @@
+{
+	"lightLevel": 1,
+	"houseSize": "Small",
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Mist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Wall",
+			"name": "Storm Blue Interior Wall",
+			"itemId": 33248,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Crystal Chandelier",
+			"itemId": 16013,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Storm Blue Interior Wall",
+			"itemId": 33248,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Light",
+			"name": "Crystal Chandelier",
+			"itemId": 16013,
+			"color": ""
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Window",
+			"name": "Riviera Arched Window",
+			"itemId": 6401,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Door",
+			"name": "Riviera Wooden Door",
+			"itemId": 6410,
+			"color": "BB9F7000"
+		}
+	],
+	"exteriorFurniture": [],
+	"metaData":
+	{
+		"version": 136
+	},
+	"interiorScale": 100,
+	"interiorFurniture": [],
+	"properties":
+	{
+	}
+}
