@@ -47,8 +47,8 @@
 		{
 			"level": "Basement",
 			"type": "Light",
-			"name": "Crystal Chandelier",
-			"itemId": 16013,
+			"name": "Riviera Pendant Lamp",
+			"itemId": 6461,
 			"color": ""
 		}
 	],
@@ -75,7 +75,34 @@
 		"version": 136
 	},
 	"interiorScale": 100,
-	"interiorFurniture": [],
+	"interiorFurniture": [
+		{
+			"itemId": 7064,
+			"name": "Summoning Bell",
+			"transform":
+			{
+				"location": [ -398.36173250433279, 487.48474102707058, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 9724,
+			"name": "Guildleve Counter",
+			"transform":
+			{
+				"location": [ 92.021129163006634, -392.78561053337228, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
 	"properties":
 	{
 	}
